@@ -1,7 +1,7 @@
 <h1 align="center">Whatzup 👋, I'm Jonas Hubbard</h1>
 <h3 align="center">Proud software and web developer of 4 Yrs.</h3>
 
-<center><img margin="auto" src="https://steamuserimages-a.akamaihd.net/ugc/1787342881620757186/377ADB38589E8FF21EE90A71E3EA79DF72454FC2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
+<center><img src="https://steamuserimages-a.akamaihd.net/ugc/1787342881620757186/377ADB38589E8FF21EE90A71E3EA79DF72454FC2/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"></center>
 
 - 🔭 I’m currently working on [zetrogames.com](https://github.com/Jonaz98/zetrogames)
 

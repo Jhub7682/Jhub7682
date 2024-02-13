@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yoyoccvo@gmail.com**
 
-- ✨Check out my current site! [zetrogames.com](zetrogames.com)
+- ✨Check out my current site! [zetrogames](zetrogames)
 
 - ⚡ Fun fact **I have over 10 website's in little corners of the internet so far!**
 

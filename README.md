@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [zetrogames.com](https://github.com/Jonaz98/zetrogames)
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Any projects that evolve a challenge and have a beneficial mission.**
 
-- 🤝 I’m looking for help with [C-Moon](https://github.com/Jonaz98/C-Moon)
+- 🤝 I’m looking for help with [C-Moon](https://github.com/Jonaz98/C-Moon) a language I am making for my website ZETROgames.com
 
 - 👨‍💻 All of my projects are available at [https://Jonaz98.github.io/my-stuff/](https://Jonaz98.github.io/my-stuff/)
 

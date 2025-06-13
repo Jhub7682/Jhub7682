@@ -1,25 +1,21 @@
-<h1 align="center">Whatzup 👋, I'm Jonas</h1>
+<h1 align="center">Supp 👋, I'm Jonas</h1>
 <h3 align="center">Proud software and web developer of 5 Yrs.</h3>
 
-- 🔭 I’m currently working on [zetrogames.com](https://github.com/Jonaz98/zetrogames)
+🔭 I’m currently working on [zetrogames.com](https://github.com/Jonaz98/zetrogames)
 
-- 🌱 I’m currently learning **Java**
+🌱 I’m currently preparing for a vacation so I am trying to get everything prepared for a break!
 
-- 👯 I’m looking to collaborate on **Any projects that evolve a challenge and have a beneficial mission.**
+🤝 I’m looking for help with Ai tools for Zetro Studio25
 
-- 🤝 I’m looking for help with [C-Moon](https://github.com/Jonaz98/C-Moon) a language I am making for my website ZETROgames.com
+👨‍💻 All of my projects are available at [https://Jonaz98.github.io/my-stuff/](https://Jonaz98.github.io/my-stuff/)
 
-- 👨‍💻 All of my projects are available at [https://Jonaz98.github.io/my-stuff/](https://Jonaz98.github.io/my-stuff/)
+📝 I regularly write upates for my projects on discord!
 
-- 📝 I regularly write articles on [https://discord.gg/programming](https://discord.gg/programming)
+💬 Mostly uses **JavaScript, Python, C++.**
 
-- 💬 Ask me about **JavaScript, TypeScript, C++.**
+📫 Current way to reach me? - **Gmail> yoyoccvo** // **Discord> Jhub7682**
 
-- 📫 How to reach me **yoyoccvo@gmail.com**
-
-- ✨Check out my current site! [zetrogames](zetrogames)
-
-- ⚡ Fun fact **I have over 10 website's in little corners of the internet so far!**
+✨Check out my current project! **https://zetro.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

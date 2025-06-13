@@ -1,7 +1,7 @@
 <h1 align="center">Supp 👋, I'm Jhub</h1>
 <h3 align="center">Proud software and web developer of 5 Yrs.</h3>
 
-🔭 I’m currently working on [zetrogames.com](https://github.com/Jonaz98/zetrogames)
+🔭 I’m currently working on [zetro.dev](https://zetro.dev)
 
 🌱 I’m currently preparing for a vacation so I am trying to get everything prepared for a break!
 

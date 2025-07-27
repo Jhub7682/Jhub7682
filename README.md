@@ -3,16 +3,18 @@
 
 --_%#@$%_-->  I’m currently working on [zetro.dev](https://zetro.dev)
 
---_@$&*%_-->   I’m currently preparing for a vacation so I am trying to get everything prepared for a break!
+--_@$&*%_-->   I’m currently w*rking at my j*b so I am struggling to fix things here..
 
---_@(%&#_-->   I’m looking for help with Ai tools for Zetro Studio25
+--_@(%&#_-->   I’m looking for help with Ai hosting for Zetro Studio25
 
 --_*%^&@_-->   All of my projects are available at [https://Jonaz98.github.io/my-stuff/](https://Jonaz98.github.io/my-stuff/)
 
---_*^$@^_-->   I regularly write upates for my projects on discord!
+--_*^$@^_-->   I regularly write upates for my projects on my Discord server! >>>> [https://discord.gg/cnbhzrNc]
 
---_&%@)#_-->   Mostly uses **JavaScript, Python, C++.**
+--_&%@)#_-->   Mostly uses **JavaScript & Python**
 
---_*@^%#_-->   Current way to reach me? - **Gmail> yoyoccvo** // **Discord> Jhub7682**
+--_*@^%#_-->   Want to reach me? - **Gmail> yoyoccvo** // **Discord> Jhub7682**
 
---_%*@&%_-->  Check out my current project! **https://zetro.dev**
+--_%*@&%_-->  My current project again is... **https://zetro.dev**
+
+"Time flys by in July. Keep your eyes open don't let it pass by" - J's quote of the month!
